@@ -19,6 +19,7 @@ This project leverages **Crawl4AI** (powered by Playwright) to handle dynamic Ja
 
 - **Python 3.7+**
 - **pip** (Python package installer)
+- **venv** (Always install in venv)
 
 ---
 
